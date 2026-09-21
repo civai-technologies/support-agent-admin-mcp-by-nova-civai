@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "support-agent-admin-by-nova": {
+      "url": "https://nova.civai.co/mcp/agents/support-agent-admin",
+      "headers": {
+        "Authorization": "Bearer ${NOVA_API_KEY}"
+      }
+    }
+  }
+}

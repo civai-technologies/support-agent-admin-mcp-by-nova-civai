@@ -1,0 +1,16 @@
+mcp
+model-context-protocol
+mcp-server
+nova-by-civai
+civai
+cursor
+claude-desktop
+streamable-http
+remote-mcp
+crm
+support-agent
+outreach
+whatsapp-crm
+lead-management
+support
+admin

@@ -1,0 +1,24 @@
+{
+  "slug": "support-agent-admin",
+  "repo": "support-agent-admin-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/support-agent-admin-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "crm",
+    "support-agent",
+    "outreach",
+    "whatsapp-crm",
+    "lead-management",
+    "support",
+    "admin"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/support-agent-admin"
+}
