@@ -1,0 +1,13 @@
+{
+  "name": "support-agent-admin",
+  "version": "1.1.0",
+  "description": "I manage your Support Agent CRM, pipeline analytics, follow-ups, Leads Discovery, and workspace output (Sheets, Docs, Calendar, research)",
+  "mcpServers": {
+    "support-agent-admin-by-nova": {
+      "httpUrl": "https://nova.civai.co/mcp/agents/support-agent-admin",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
